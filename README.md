@@ -2,11 +2,11 @@ Project Name:- Chat Room
 
 **Create NPM projest**
 Command :- npm init -y
-
+//
 **Install Dependancies (express , nodemon)**
 Command:- npm install express (Need express to handle server side routing)
           npm install nodemon -D (nodemon help us to automatically restarting the node application when file changes in the directory are detected)
-
+//
 **Install Soket.io**
 Command:- npm install socket.io(Socket.io help us create websocket)
 
