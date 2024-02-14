@@ -1,18 +1,20 @@
 Project Name:- Chat Room
 
 **Create NPM projest** 
-Command :- npm init -y
-//
+
+      Command :- npm init -y
+      
 **Install Dependancies (express , nodemon)**
-Command:- npm install express (Need express to handle server side routing)
+
+          Command:- npm install express (Need express to handle server side routing)
           npm install nodemon -D (nodemon help us to automatically restarting the node application when file changes in the directory are detected)
-//
 **Install Soket.io**
-Command:- npm install socket.io(Socket.io help us create websocket)
+
+    Command:- npm install socket.io(Socket.io help us create websocket)
 
 **How to run this project locally?**
 
-          To run this project locally 
+      To run this project locally 
           Requirements
                        1. install Noje.js (https://nodejs.org/en/download/current).
                        2. Should have code editor (Preferred VS code).
