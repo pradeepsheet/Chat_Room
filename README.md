@@ -1,6 +1,6 @@
 Project Name:- Chat Room
 
-**Create NPM projest**
+**Create NPM projest** 
 Command :- npm init -y
 //
 **Install Dependancies (express , nodemon)**
